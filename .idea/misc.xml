@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/HTML/My_Bills/app/src/main/res/drawable/shape.xml" value="0.21614583333333334" />
+        <entry key="..\:/HTML/My_Bills/app/src/main/res/drawable/shape_button.xml" value="0.17735042735042736" />
+        <entry key="..\:/HTML/My_Bills/app/src/main/res/drawable/shape_custom.xml" value="0.17735042735042736" />
+        <entry key="..\:/HTML/My_Bills/app/src/main/res/drawable/shape_image.xml" value="0.21614583333333334" />
+        <entry key="..\:/HTML/My_Bills/app/src/main/res/font/abeezee.xml" value="0.18888888888888888" />
+        <entry key="..\:/HTML/My_Bills/app/src/main/res/font/electrolize.xml" value="0.18888888888888888" />
+        <entry key="..\:/HTML/My_Bills/app/src/main/res/font/ff.xml" value="0.23020833333333332" />
+        <entry key="..\:/HTML/My_Bills/app/src/main/res/font/fontt.xml" value="0.23020833333333332" />
+        <entry key="..\:/HTML/My_Bills/app/src/main/res/layout-anydpi/activity_main.xml" value="0.18" />
+        <entry key="..\:/HTML/My_Bills/app/src/main/res/layout-hdpi/activity_main.xml" value="0.33" />
+        <entry key="..\:/HTML/My_Bills/app/src/main/res/layout-ldpi/activity_main.xml" value="0.22" />
+        <entry key="..\:/HTML/My_Bills/app/src/main/res/layout-mdpi/activity_main.xml" value="0.2" />
+        <entry key="..\:/HTML/My_Bills/app/src/main/res/layout-xhdpi/activity_main.xml" value="0.2" />
+        <entry key="..\:/HTML/My_Bills/app/src/main/res/layout-xxhdpi/activity_main.xml" value="0.2" />
+        <entry key="..\:/HTML/My_Bills/app/src/main/res/layout-xxxhdpi/activity_main.xml" value="0.15" />
+        <entry key="..\:/HTML/My_Bills/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/HTML/My_Bills/app/src/main/res/layout/activity_splash.xml" value="0.1641025641025641" />
+        <entry key="..\:/HTML/My_Bills/app/src/main/res/layout/custom_view.xml" value="0.33" />
+        <entry key="..\:/HTML/My_Bills/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.17735042735042736" />
+        <entry key="..\:/HTML/My_Bills/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.17735042735042736" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

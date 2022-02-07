@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" >فواتيري</string>
+    <string name="My_billing_app">تطبيق فواتيري</string>
+    <string name="Invoice_name">اسم الفاتورة</string>
+    <string name="Enter_the_billing_name_here">ادخل اسم الفاتورة هنا</string>
+    <string name="Modification">تعديل</string>
+    <string name="save">حفظ</string>
+    <string name="Click_to_choose_the_picture">اضغط لاختيار الصورة</string>
+</resources>
